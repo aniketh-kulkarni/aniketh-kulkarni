@@ -1,8 +1,7 @@
 ![logo](https://github.com/aniketh-kulkarni/aniketh-kulkarni/blob/main/AK%20logo.jpeg)
 <h1 align="center">Hi 👋, I'm Aniketh Kulkarni</h1>
 <h3 align="center">A passionate Technology Enhancer from India</h3>
-<img align="left" alt="Coding" width="400" src="![image](https://github.com/aniketh-kulkarni/aniketh-kulkarni/assets/121016708/084155bc-cb86-49c4-8ce8-520d6d59c310)
-">
+<img align="left" alt="Coding" width="400" src="https://github.com/aniketh-kulkarni/aniketh-kulkarni/blob/main/AK%20logo.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketh-kulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="aniketh-kulkarni" /> </p>
 
