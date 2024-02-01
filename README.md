@@ -1,5 +1,4 @@
-![logo](https://github.com/aniketh-kulkarni/aniketh-kulkarni/blob/main/AK%20logo.jpeg)
-![logo](https://github.com/aniketh-kulkarni/aniketh-kulkarni/blob/main/AK%20logo.jpeg)
+![logo](https://github.com/aniketh-kulkarni/aniketh-kulkarni/blob/main/Coding%20Gif.gif)
 
 <h1 align="center">Hi 👋, I'm Aniketh Kulkarni</h1>
 <h3 align="center">A passionate Technology Enhancer from India</h3>
