@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Aniketh Kulkarni</h1>
 <h3 align="center">A passionate Technology Enhancer from India</h3>
 <img align="left" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=wNGxHlTC&id=1AF5B4627E83A6D1903CFEC25FCB55EE8CAC7D04&thid=OIP.wNGxHlTCsH9zU90WDouoDQHaFj&mediaurl=https%3a%2f%2fimages.squarespace-cdn.com%2fcontent%2fv1%2f5769fc401b631bab1addb2ab%2f1541580611624-TE64QGKRJG8SWAIUS7NS%2fcoding-freak.gif&exph=600&expw=800&q=animated+coding+gif&simid=608037180718939798&FORM=IRPRST&ck=88E93EE9E551F3611CC6EADFA0CEB852&selectedIndex=0&itb=0">
